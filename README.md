@@ -11,3 +11,10 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2
 ## My map image
 
 ![Campground](https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg)
+
+![Kentucky outline](ky-outline.jpg)
+
+## Kentucky outline
+
+![Kentucky outline](ky-outline.jpg)
+
