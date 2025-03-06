@@ -1,4 +1,4 @@
-# hello trees
+# hello-world
 
 A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2025
 
