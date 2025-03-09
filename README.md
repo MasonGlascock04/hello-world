@@ -7,7 +7,7 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2
 * NDVI greater 0.1 values used to find vegetated areas
 * Heights greater 5 feet
 
-[Visit my webpage](#)
+[Visit my webpage](https://github.com/MasonGlascock04/hello-world)
 ## My map image
 
 ![Campground](https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg)
